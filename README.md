@@ -2,7 +2,7 @@
 
 
 # PwC Challenge - Credit Card Fraud Detection #
- ## Grupo 2
+ ## Grupo 1
 
 **Introducción**
 La detección de fraude en transacciones con tarjetas de crédito es un desafío constante para las instituciones financieras. El uso de técnicas de machine learning puede ser fundamental para identificar patrones y anomalías en los datos que podrían indicar actividades fraudulentas.
@@ -24,10 +24,10 @@ Este repositorio contiene los pasos esenciales que realizamos sobre el dataset d
    
 ### Miembros del Grupo
 1. **Profesor: Christian Vladimir Sucuzhanay Arevalo** ( Profesor )
-2. Miguel Angel del Rio
-3. Erick Flores
-4. Sebastian Gonzalez Ureña
-
+2. Guillermo García González
+3. Miguel Angel Alcon Galán
+4. Sebastian Marquez Cochesa
+5. Sebastian Higueras Salas
 ### Estructura y tecnologías usadas en _**PwC Challenge**_
 
 1. RapidMiner
